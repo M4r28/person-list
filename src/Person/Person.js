@@ -7,8 +7,8 @@ const Person = (props)=>{
 return (
   <article className="Person">
     <img src={url} alt="our staff member"/>
-    <h4>Name: {props.name}</h4>
-    <h4>Occupation: {props.occupation}</h4>
+    <h4>{props.name}</h4>
+    <h5>{props.occupation}</h5>
     <p>{props.children}</p>
 
   </article>

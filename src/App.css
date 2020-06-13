@@ -9,7 +9,7 @@
 
 .Person {
   background: #eee;
-  width: 17rem;
+  width: 16rem;
   padding: 1rem;
   margin: 2rem auto;
   border-radius: 0.3rem;
@@ -23,8 +23,9 @@
 }
 
 .Person img {
+  margin: 1rem;
   border-radius: 50%;
-  border: 0.1rem solid teal
+  border: 0.1rem solid teal;
 }
 
 .Person h4{
@@ -32,6 +33,18 @@
   margin: 0.5rem 0;
   letter-spacing: 0.15rem;
   color: teal;
+}
+
+.Person h5{
+  color: rgb(71, 72, 82);
+}
+
+.Person p{
+  font-style: italic;
+  padding: 0 1rem 1rem;
+  font-size: 12px;
+  color: rgb(71, 72, 82);
+
 }
 
 @media screen and (min-width:300px){

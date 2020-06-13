@@ -5,9 +5,9 @@ import Person from './Person/Person';
 function App() {
   return (
     <div className="App">
-<Person img="34" name="Helga" occupation="Front-end developer">Lorem ipsum</Person>  
-<Person img="44" name="Brygida" occupation="Back-end developer">Bla bla</Person> 
-<Person img="13" name="Ksenia" occupation="UX/UI designer">Here is my little la la la</Person>   </div>
+<Person img="34" name="Helena" occupation="Front-end developer">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt. </Person>  
+<Person img="16" name="Brigitte" occupation="Back-end developer">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt. </Person> 
+<Person img="2" name="Cassandra" occupation="UX/UI designer">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt. </Person>   </div>
   );
 }
 
