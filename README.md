@@ -8,5 +8,4 @@ A small list of personal cards of the team members.
 - React.js
 
 ## Preview
-![Screenshot](./preview.png)
-}
+<kbd>![Screenshot](./preview.png)</kbd>
